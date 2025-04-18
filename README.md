@@ -22,8 +22,8 @@ I help businesses automate repetitive tasks, streamline operations, and scale sm
 
 ---
 
-### 🧠 My Stack
-`Python` | `LangChain` | `JavaScript` | `n8n` | `Pinecone` | `FastAPI` | `MongoDB` | `GitHub` | `AWS` | `Docker` | `OpenAI`
+### Stack
+LangChain | Pinecone | OpenAI | Python | FastAPI | Git | GitHub | AWS | Docker | PostgreSQL | Firebase | Weaviate | Zapier | n8n | Streamlit | VS Code | REST APIs | JSON | Vector DBs | Automation | Chatbots | RAG | LLMs | API Integrations
 
 ---
 
