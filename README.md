@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Daniel Melnik – Founder of an AI Agency, TFAB (The Future Ai Builder)
+# 👋 Hi there, I’m Daniel Melnik – Founder of an AI Business, TFAB (The Future Ai Builder)
 
 I help businesses automate repetitive tasks, streamline operations, and scale smarter using AI-powered chatbots and data-driven systems. My goal is to build tools that save time, reduce cost, and unlock new growth for real people doing real work.
 
